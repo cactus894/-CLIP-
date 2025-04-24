@@ -1,0 +1,59 @@
+video_path,sentence,gt_start,gt_end,pred_start,pred_end,iou
+data\videos\v_uqiMw7tQ1Cc.mp4,A weight lifting tutorial is given.,0.28,55.15,0.6666666666666666,54.333333333333336,0.9780693761010876
+data\videos\v_uqiMw7tQ1Cc.mp4,  The coach helps the guy in red with the proper body placement and lifting technique.,13.79,54.32,0.3333333333333333,54.333333333333336,0.7505555555555555
+data\videos\v_bXdq2zI1Ms0.mp4, The first man then begins performing martial arts moves while speaking to he camera.,10.6,39.84,6.666666666666667,72.66666666666667,0.44303030303030305
+data\videos\v_FsS_NCZEfaI.mp4,Several shots of boats are shown riding around as well as people riding on the boats and speaking to one another.,0,91.48,0.6666666666666666,5.0,0.04736918816499052
+data\videos\v_FsS_NCZEfaI.mp4, Several shots are then shown of people sitting on the water as well as life under the water.,73.4,174.45,133.66666666666666,163.66666666666666,0.2968827313211282
+data\videos\v_FsS_NCZEfaI.mp4, The camera pans around old cars under water as well as people in the area.,168.07,212.74,166.66666666666666,190.33333333333334,0.48321516423093636
+data\videos\v_K6Tm5xHkJ5c.mp4,A woman is seen speaking to the camera while holding an accordion and and moving her hands around.,1.15,64.77,5.0,45.0,0.6287331027978623
+data\videos\v_K6Tm5xHkJ5c.mp4, She demonstrates how to play the instrument while still speaking to the camera and moving all around.,38.4,105.47,4.333333333333333,112.66666666666667,0.6191076923076921
+data\videos\v_4Lu8ECLHvK4.mp4,There are some people including small children near a soccer field.,0,124.23,9.666666666666666,49.0,0.3166170275564142
+data\videos\v_4Lu8ECLHvK4.mp4, A small boy is playing by himself a he stands on a large square tile.,3.11,8.07,0.6666666666666666,5.333333333333333,0.3003151733453399
+data\videos\v_4Lu8ECLHvK4.mp4," A man dressed in a blue shirt come running towards him and points out his finger, indicating to the boy to go there.",6.83,14.91,0.6666666666666666,28.333333333333332,0.29204819277108435
+data\videos\v_4Lu8ECLHvK4.mp4, The boy gets off the tile and walks to another tile.,13.66,32.92,18.0,22.666666666666668,0.24229837313949468
+data\videos\v_4Lu8ECLHvK4.mp4, Then another little boy wearing a gray shirt comes to that tile and begins playing.,31.06,39.13,32.0,35.0,0.3717472118959106
+data\videos\v_4Lu8ECLHvK4.mp4, There are some man playing with small children on the lawn.,48.45,104.35,76.33333333333333,84.33333333333333,0.14311270125223616
+data\videos\v_4Lu8ECLHvK4.mp4, The little boy comes running towards some children and his father follows him.,98.14,124.23,120.33333333333333,123.33333333333333,0.1149865848984285
+data\videos\v_HWV_ccmZVPA.mp4, A race starts and people are running.,8.3,24.15,12.666666666666666,18.666666666666668,0.37854889589905377
+data\videos\v_GGSY1Qvo990.mp4,A female weight lifter bends at the knees.,0,2.27,0.3333333333333333,17.666666666666668,0.10962264150943396
+data\videos\v_GGSY1Qvo990.mp4, She lifts a barbell to her chest.,2.91,6.54,0.6666666666666666,17.333333333333332,0.21780000000000002
+data\videos\v_GGSY1Qvo990.mp4, She then lifts it over her head before dropping it heavily to the ground.,8.08,18.16,11.333333333333334,16.0,0.4629629629629629
+data\videos\v_frePM0YGtQE.mp4,A guy puts a black cat on the kitchen floor.,8.76,12.26,0.6666666666666666,174.33333333333334,0.020153550863723606
+data\videos\v_frePM0YGtQE.mp4, The guy reaches for a scissor and sits next to the cat.,14.01,19.27,16.666666666666668,152.66666666666666,0.018775392456186733
+data\videos\v_frePM0YGtQE.mp4, The guy carries the cat.,26.28,35.91,8.333333333333334,151.33333333333334,0.0673426573426573
+data\videos\v_frePM0YGtQE.mp4, The guy uses the scissor to cut the cat's claws.,37.66,94.59,16.0,166.33333333333334,0.3786917960088692
+data\videos\v_frePM0YGtQE.mp4, The guy pets the cat  and puts the cat on the floor.,134.01,162.91,7.666666666666667,174.33333333333334,0.17340000000000003
+data\videos\v_frePM0YGtQE.mp4, The guy gets up and trashes the clippings.,162.91,168.17,157.33333333333334,164.0,0.10058443555829027
+data\videos\v_frePM0YGtQE.mp4, The owner and pet exit the kitchen.,169.92,175.17,0.6666666666666666,174.33333333333334,0.025290825390155043
+data\videos\v_JTrwGfPJNzU.mp4,A large kid playground slide is shown.,0,2.88,0.6666666666666666,10.666666666666666,0.20750000000000002
+data\videos\v_JTrwGfPJNzU.mp4," Several people slide down, a woman and her little girl.",3.28,11.31,0.6666666666666666,11.0,0.7253366739743188
+data\videos\v_gOniW-yEZ0k.mp4,A woman is seen kneeling down next to a man.,0,2.51,0.6666666666666666,5.333333333333333,0.345625
+data\videos\v_gOniW-yEZ0k.mp4, Another person is seen kneeling nearby.,0,6.93,0.6666666666666666,7.0,0.8947619047619046
+data\videos\v_cHYZPYLwvks.mp4,Three scuba divers are seen moving along the water with one giving a thumbs up to the camera and the camera panning all around the ocean.,0.84,64.47,33.333333333333336,46.333333333333336,0.20430614490020432
+data\videos\v_cHYZPYLwvks.mp4, Several shots are shown of the divers taking pictures under the water as well as taking off their mask and waving to the camera.,44.38,140.67,4.333333333333333,161.0,0.6146170212765957
+data\videos\v_cHYZPYLwvks.mp4, In the end the divers come to the surface.,132.3,163.28,4.666666666666667,160.66666666666666,0.17884162743779408
+data\videos\v_HtkuvF7VbSQ.mp4,A man is sitting in a chair getting a tattoo.,16.82,84.88,16.666666666666668,84.33333333333333,0.9897380766223611
+data\videos\v_HtkuvF7VbSQ.mp4, He stands up and yells at the man tattooing.,84.08,108.9,87.66666666666667,139.0,0.38662296673949986
+data\videos\v_HtkuvF7VbSQ.mp4, He walks out the door of the shop and walks down the street.,140.93,160.15,152.0,158.0,0.3121748178980229
+data\videos\v_Po8gmt7hVTY.mp4,A chef is talking inside a kitchen as he fills a pan with frying oil and water.,0,12.9,4.666666666666667,8.666666666666666,0.3100775193798449
+data\videos\v_Po8gmt7hVTY.mp4, He boils pasta noodles in a pot.,13.36,46.98,28.0,37.0,0.2676977989292088
+data\videos\v_Po8gmt7hVTY.mp4, He then tastes the noodles when they are done.,49.75,92.13,80.0,87.66666666666667,0.1809029416391381
+data\videos\v_yACg55C3IlM.mp4,Two girls are outside in bathing suits cleaning the front of a green vehicle.,0,28.22,0.3333333333333333,176.0,0.1584469696969697
+data\videos\v_yACg55C3IlM.mp4,One of the girl then walks away and goes to get something from a man cleaning the motorcycle.,27.34,64.37,0.6666666666666666,175.66666666666666,0.2116
+data\videos\v_yACg55C3IlM.mp4,They continue to wash the vehicle and then the girls walks over and grabs the water hose.,64.37,126.99,0.3333333333333333,176.0,0.3564705882352941
+data\videos\v_yACg55C3IlM.mp4,She comes back to rinse the vehicle and then holds it up to the girl's head and washes her hair.,126.99,176.37,0.3333333333333333,176.0,0.27840790744352506
+data\videos\v_E9R1H8xRIW8.mp4,A man is seen pushing a lawn mower across a lawn to cut the grass.,0,22.84,0.3333333333333333,24.666666666666668,0.9124324324324324
+data\videos\v_E9R1H8xRIW8.mp4, The man continues moving the machine all along the yard while the camera captures his movements.,5.99,24.96,0.6666666666666666,24.333333333333332,0.7550768386388584
+data\videos\v_V1SEaTS9hos.mp4,A man is seen sitting in front of a bucket holding clothes in his hands.,0.11,2.01,0.6666666666666666,10.333333333333334,0.13139876100423864
+data\videos\v_V1SEaTS9hos.mp4, Another person is seen sitting next to him sticking his hand in a bucket.,2.01,7.69,0.6666666666666666,10.333333333333334,0.5875862068965517
+data\videos\v_V1SEaTS9hos.mp4, The men continue washing clothes next to one another while dipping them into a bucket.,7.58,10.87,0.6666666666666666,10.333333333333334,0.26984645540672986
+data\videos\v_ng14GLT_hHQ.mp4,A man is kneeling on the kitchen floor.,0,19.93,4.333333333333333,97.66666666666667,0.15969283276450513
+data\videos\v_ng14GLT_hHQ.mp4, He is using a bucket of paints and a canvas.,25.3,76.67,0.6666666666666666,152.66666666666666,0.3379605263157895
+data\videos\v_ng14GLT_hHQ.mp4, He uses the paints to create an image on the canvas.,83.57,153.35,0.6666666666666666,152.66666666666666,0.4525488483789979
+data\videos\v_wPYr19iFxhw.mp4,The camera is showing an arc welder in a shop.,0,19.53,0.6666666666666666,6.666666666666667,0.3072196620583717
+data\videos\v_wPYr19iFxhw.mp4, A man approaches the arc welder and begins using it to weld some metal bars.,15.57,36.8,7.666666666666667,56.333333333333336,0.4362328767123287
+data\videos\v_wPYr19iFxhw.mp4, The man shows the metal bar to the camera.,36.8,45.01,17.0,56.0,0.21051282051282053
+data\videos\v_wPYr19iFxhw.mp4, The man sets the bar down and begins welding it again.,45.01,56.61,8.0,56.0,0.22608516766097514
+data\videos\v_nGABbRHJ2Ug.mp4,A girl is seen standing near a piece of exercise equipment talking a man.,0,30.6,0.6666666666666666,112.66666666666667,0.26568047337278106
+data\videos\v_nGABbRHJ2Ug.mp4, She continues speaking to him and has him watch her while she steps on the machine.,30.6,69.7,0.6666666666666666,113.0,0.3480712166172107
+data\videos\v_nGABbRHJ2Ug.mp4, She rides the bike moving back and fourth speaking to the man and switches places with the man.,71.97,113.34,0.6666666666666666,112.66666666666667,0.36119164546476545
