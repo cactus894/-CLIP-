@@ -115,7 +115,7 @@ class VideoProcessor:
             image = await to_thread(Image.open, frame_path)
             image = self.preprocess(image).unsqueeze(0).to(self.device)
 
-            # 由于不需要更新模型，因此禁用梯度计算，避免占用额外的显存
+            # 禁用梯度计算，避免占用额外的显存
             with torch.no_grad():
 
                 # 通过CLIP编码图像，得到图像的向量表示
